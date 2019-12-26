@@ -1,2 +1,2 @@
 # maoyan_csdn
-requests爬取猫眼电影T100和CSDN个人博客
+requests爬取猫眼电影T100和CSDN个人博客列表
